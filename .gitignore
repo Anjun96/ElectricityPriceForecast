@@ -4,8 +4,8 @@ data/opsd-renewable_power_plants-2020-08-25/output
 data/opsd-time_series-2020-10-06/output
 data/opsd-weather_data-2020-09-16/output
 output/
-*.csv
-*.xlsx
+# *.csv
+# *.xlsx
 
 *.json
 *.md
